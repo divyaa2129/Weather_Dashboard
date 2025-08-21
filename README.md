@@ -77,9 +77,6 @@ Dark Theme UI: Enhances visibility and focus on data storytelling.
 🧑‍💼 Decision Support: Helps stakeholders visualize environmental conditions for operations and compliance.
 
 
-
-📸 Screenshot & Demo
-
 🔍 Dashboard Preview
 
 https://github.com/divyaa2129/Weather_Dashboard/blob/main/Weather_Dashboard_Visual.png
